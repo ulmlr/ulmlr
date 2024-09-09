@@ -10,7 +10,7 @@ Wëllst du déi modernst Technologie léieren, déi vu Professionellen benotzt g
 
 ![](images/qr-code.png)
 
-t
+test
 
 
 
