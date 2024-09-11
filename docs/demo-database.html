@@ -1,0 +1,224 @@
+<!doctype html>
+<html lang="en">
+<link rel="stylesheet" type="text/css" href="https://tikzjax.com/v1/fonts.css">
+<script src="https://tikzjax.com/v1/tikzjax.js"></script>
+
+
+	<head>
+		<meta charset="utf-8">
+
+		<title>reveal.js – The HTML Presentation Framework</title>
+
+		<meta name="description" content="A framework for easily creating beautiful presentations using HTML">
+		<meta name="author" content="Hakim El Hattab">
+
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<link rel="stylesheet" href="dist/reset.css">
+		<link rel="stylesheet" href="dist/reveal.css">
+		<link rel="stylesheet" href="dist/theme/black.css" id="theme">
+
+		<!-- Theme used for syntax highlighting of code -->
+		<link rel="stylesheet" href="plugin/highlight/monokai.css">
+	</head>
+
+	<body>
+
+		<div class="reveal">
+
+			<!-- Any section element inside of this container is displayed as a slide -->
+			<div class="slides">
+
+
+					<section data-background="#dddddd">
+						<h4>Using TikZJax</h4>
+						<style>
+							.container {
+								display: flex;
+								justify-content: center;
+								align-items: center;
+								height: 100vh;
+							}
+						</style>
+						<div class="container">
+						<script type="text/tikz">
+							\tikz \draw[domain=0:360,smooth,variable=\t]
+  							plot ({sin(\t)},\t/360,{cos(\t)});
+						</script>
+						</div>
+					</section>
+
+				</section>					
+
+				<!-- 8. Les indicateurs complémentaires -->
+				<section data-background="#dddddd">
+					<h4>Indicateurs complémentaires</h4>
+					<iframe src="https://data.oecd.org/chart/78a4" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/78a4" target="_blank">Graphique OCDE: Inégalité de revenu, Coefficient de Gini, 0 = égalité totale ; 1 = inégalité totale, Annuelle, les 5 dernières années</a></iframe>
+				</section>				
+
+
+
+
+				<!-- Embed video into slide -->
+				<section>
+					<h2>Video</h2>
+					<video src="http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4" data-autoplay></video>
+				</section>
+
+				<section data-background-video="http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4">
+					<h2>Background Video</h2>
+				</section>
+
+				<section>
+					<h2>Auto-playing audio</h2>
+					<audio src="https://media.radiofrance-podcast.net/podcast09/11548-20.05.2023-ITEMA_23384632-2023F16192S0140-22.mp3" data-autoplay></audio>
+				</section>
+
+				<section>
+					<h2>Audio inside slide fragments</h2>
+					<div class="fragment">
+						Beep 1
+						<audio src="https://media.radiofrance-podcast.net/podcast09/11548-20.05.2023-ITEMA_23384632-2023F16192S0140-22.mp3" data-autoplay></audio>
+					</div>
+					<div class="fragment">
+						Beep 2
+						<audio src="https://media.radiofrance-podcast.net/podcast09/11548-20.05.2023-ITEMA_23384632-2023F16192S0140-22.mp3" data-autoplay></audio>
+					</div>
+				</section>
+
+				<section>
+					<h2>Audio with controls</h2>
+					<audio src="https://media.radiofrance-podcast.net/podcast09/11548-20.05.2023-ITEMA_23384632-2023F16192S0140-22.mp3" controls></audio>
+				</section>
+
+				<section>
+					<h2>Embed a book from Gallica</h2>
+					<div style="display: block; "><iframe style="width:500px; height: 554.8919753086419px; border: 0;" src="https://gallica.bnf.fr/ark:/12148/bpt6k75319v/f4.image.mini"></iframe></div>
+				</section>
+
+
+				<!-- Include images from BNF.fr -->
+				<section>
+					<a href="https://images.bnf.fr/">
+						<img src="https://images.bnf.fr/scripts/atlasgate.dll/bnf6db/wa_zoom?docid=1628843&ex=10377660&psite=IMAGE&SID=1e6b9c60" alt="reveal.js logo" style="height: 720px; margin: 0 auto 4rem auto; background: transparent;" class="demo-logo">
+					</a>
+				</section>
+
+				<!-- Include images from BNF.fr -->
+				<section>
+					<a href="https://images.bnf.fr/">
+						<img src="https://images.bnf.fr/scripts/atlasgate.dll/bnf6db/wa_zoom?docid=1628831&ex=10377648&psite=IMAGE&SID=1e6b9c60" alt="reveal.js logo" style="height: 720px; margin: 0 auto 4rem auto; background: transparent;" class="demo-logo">
+					</a>
+				</section>				
+
+				<!-- Include images from BNF.fr -->
+				<section>
+					<a href="https://images.bnf.fr/">
+						<img src="https://images.bnf.fr/scripts/atlasgate.dll/bnf6db/wa_zoom?docid=1696638&ex=10572126&psite=IMAGE&SID=1e6b9c60" alt="reveal.js logo" style="height: 720px; margin: 0 auto 4rem auto; background: transparent;" class="demo-logo">
+					</a>
+				</section>
+
+				<!-- Include images from BNF.fr -->
+				<section>
+					<a href="https://images.bnf.fr/">
+						<img src="https://images.bnf.fr/scripts/atlasgate.dll/bnf6db/wa_zoom?docid=1548898&ex=10211641&psite=IMAGE&SID=1e6b9c60" alt="reveal.js logo" style="height: 720px; margin: 0 auto 4rem auto; background: transparent;" class="demo-logo">
+					</a>
+				</section>
+
+				<!-- Include images from BNF.fr -->
+				<section>
+					<a href="https://images.bnf.fr/">
+						<img src="https://images.bnf.fr/scripts/atlasgate.dll/bnf6db/wa_zoom?docid=1541452&ex=10201214&psite=IMAGE&SID=1e6b9c60" alt="reveal.js logo" style="height: 720px; margin: 0 auto 4rem auto; background: transparent;" class="demo-logo">
+					</a>
+				</section>
+
+				<!-- Include images from BNF.fr -->
+				<section>
+					<a href="https://images.bnf.fr/">
+						<img src="https://images.bnf.fr/scripts/atlasgate.dll/bnf6db/wa_zoom?docid=1438393&ex=9920521&psite=IMAGE&SID=1e6b9c60" alt="reveal.js logo" style="height: 720px; margin: 0 auto 4rem auto; background: transparent;" class="demo-logo">
+					</a>
+				</section>
+
+				<!-- Include images from BNF.fr -->
+				<section>
+					<a href="https://images.bnf.fr/">
+						<img src="https://images.bnf.fr/scripts/atlasgate.dll/bnf6db/wa_zoom?docid=1438394&ex=9920522&psite=IMAGE&SID=1e6b9c60" alt="reveal.js logo" style="height: 720px; margin: 0 auto 4rem auto; background: transparent;" class="demo-logo">
+					</a>
+				</section>
+
+				<section  data-background="#dddddd">
+					<h2>Using TikZJax</h2>
+					<script type="text/tikz">
+						\begin{tikzpicture}
+						\draw (0,0) -- (1,0) -- (1,1) -- cycle;
+						\tikz \draw[thick,rounded corners=8pt] (0,0) -- (0,-2) -- (-1,-3.25) -- (-2,-2) -- (-2,0) -- (0,-2) -- (-2,-2) -- (0,0) -- (-2,0);
+						\end{tikzpicture}
+					</script>
+				</section>				
+
+				<section  data-background="#dddddd">
+					<h2>Using TikZJax</h2>
+					<script type="text/tikz">				
+						\begin{tikzpicture}
+						% place nodes
+						\node[draw] at (0, 0)   (a) {};
+						\node[draw] at (5, 0)   (b) {};
+
+						\node[draw] at (0, -2)  (c)     {};
+						\node[draw] at (5, -2)  (d)     {};
+
+						% draw edges
+						\draw[] (a) -- (b)  node[near start, above] {};
+						\draw[] (c) -- (d)  node[near start, above] {};
+						\draw[] (a) -- (c)  node[near start, above] {};
+						\draw[] (b) -- (d)  node[near start, above] {};
+						\end{tikzpicture}				
+					</script>
+				</section>				
+
+				<section  data-background="#dddddd">
+					<h2>Using TikZJax</h2>
+					<script type="text/tikz">
+						\begin{tikzpicture}
+						\path node at ( 0,2) [shape=circle,draw] {}
+							node at ( 0,1) [shape=circle,draw] {}
+							node at ( 0,0) [shape=circle,draw] {}
+							node at ( 1,1) [shape=rectangle,draw] {}
+							node at (-1,1) [shape=rectangle,draw] {};
+						\end{tikzpicture}
+					</script>
+				</section>				
+
+			</div>
+
+		</div>
+
+
+
+		<script src="dist/reveal.js"></script>
+		<script src="plugin/zoom/zoom.js"></script>
+		<script src="plugin/notes/notes.js"></script>
+		<script src="plugin/search/search.js"></script>
+		<script src="plugin/markdown/markdown.js"></script>
+		<script src="plugin/highlight/highlight.js"></script>
+		<script>
+
+			// Also available as an ES module, see:
+			// https://revealjs.com/initialization/
+			Reveal.initialize({
+				controls: true,
+				progress: true,
+				center: true,
+				hash: true,
+
+				// Learn about plugins: https://revealjs.com/plugins/
+				plugins: [ RevealZoom, RevealNotes, RevealSearch, RevealMarkdown, RevealHighlight ]
+			});
+
+		</script>
+
+	</body>
+</html>
