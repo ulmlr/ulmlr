@@ -3,9 +3,9 @@
 ![](images/logo-collage.svg)
 
 
-Want to learn the tools used by professionals to create and maintain online content? This class gets you hands-on with HTML, Python, and more! Master Linux, Git version control, and dive into open-source publishing tools. Set up and maintain your own online sites, blogs, and public repositories. Collaborate with developers worldwide, build your online portfolio, and gain a serious edge for university and tech careers. Make your mark on the digital world - join us! Plus, you’ll get practical experience maintaining our school’s project repository, helping keep all the amazing student work organized and accessible! 
+Want to learn the tools used by professionals to create and maintain online content? This class gets you hands-on with HTML, Python, and more! Master Linux, Git version control, and dive into open-source publishing tools. Set up and maintain your own online sites, blogs, and public repositories. Collaborate with developers worldwide, build your online portfolio, and gain a serious edge for university and tech careers. Make your mark on the digital world - join us! Plus, you’ll get practical experience maintaining [our school’s project repository](https://ulmlr.github.io/ulmlr/), helping keep all the amazing student work organized and accessible! 
 
-Wëllst du déi modernst Technologie léieren, déi vu Professionellen benotzt gëtt? An dësem Cours léiers du HTML, Python a nach an aner Sproochen ze codéieren! Du léiers den Ëmgang mat Linux, Git Versiounskontroll, an du kanns souguer fir richteg Open Source Projeten bäidroen. Du kollaboréiers mat Entwéckler weltwäit an du baus däin Programméierungsportfolio op. Du kriss och praktesch Erfarung fir eise Schoulprojet-Repository z'erhalen. 
+Wëllst du déi modernst Technologie léieren, déi vu Professionellen benotzt gëtt? An dësem Cours léiers du HTML, Python a nach an aner Sproochen ze codéieren! Du léiers den Ëmgang mat Linux, Git Versiounskontroll, an du kanns souguer fir richteg Open Source Projeten bäidroen. Du kollaboréiers mat Entwéckler weltwäit an du baus däin Programméierungsportfolio op. Du kriss och praktesch Erfarung fir [eise Schoulprojet-Repository](https://ulmlr.github.io/ulmlr/) z'erhalen. 
 
 
 ![](images/qr-code.png)
