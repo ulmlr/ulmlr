@@ -1,0 +1,240 @@
+<!doctype html>
+<html lang="en">
+<link rel="stylesheet" type="text/css" href="https://tikzjax.com/v1/fonts.css">
+<script src="https://tikzjax.com/v1/tikzjax.js"></script>
+
+
+	<head>
+		<meta charset="utf-8">
+
+		<title>reveal.js – The HTML Presentation Framework</title>
+
+		<meta name="description" content="A framework for easily creating beautiful presentations using HTML">
+		<meta name="author" content="Hakim El Hattab">
+
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<link rel="stylesheet" href="dist/reset.css">
+		<link rel="stylesheet" href="dist/reveal.css">
+		<link rel="stylesheet" href="dist/theme/black.css" id="theme">
+
+		<!-- Theme used for syntax highlighting of code -->
+		<link rel="stylesheet" href="plugin/highlight/monokai.css">
+	</head>
+
+	<body>
+
+		<div class="reveal">
+
+			<!-- Any section element inside of this container is displayed as a slide -->
+			<div class="slides">
+
+				<!-- Main title of slides -->
+				<section>
+					<a href="https://gitlab.com/econmediadb">
+						<img src="https://gitlab.com/uploads/-/system/user/avatar/10447524/avatar.png" alt="reveal.js logo" style="height: 180px; margin: 0 auto 4rem auto; background: transparent;" class="demo-logo">
+					</a>
+					<h2>A Selection of reveal.js Demo using TiKz</h2>
+					<p>
+						<small>Created by <a href="http://ocaktan.org/">Tarik Ocaktan</a> </small>
+					</p>
+				</section>
+
+				
+				<section>
+					<section  data-background="#dddddd">
+						<h2>Using TikZJax</h2>
+						<div style="font-size: 40%;">
+						<p>In the <code>&lt;head&gt;</code> of your HTML, include : </p>						
+						<code class="html language-html">&lt;link rel="stylesheet" type="text/css" href="https://tikzjax.com/v1/fonts.css"&gt;
+						<br>
+						&lt;script src="https://tikzjax.com/v1/tikzjax.js"&gt;&lt;/script&gt;
+						</code>
+						</div>
+						<pre data-id="code-animation"><code class="hljs latex" data-trim data-line-numbers>
+							\begin{tikzpicture}
+							\draw (0,0) circle (1in);
+							\end{tikzpicture}
+						</code></pre>
+						<script type="text/tikz">
+							\begin{tikzpicture}
+							\draw (0,0) circle (1in);
+							\end{tikzpicture}
+						</script>
+					</section>				
+
+					<section data-background="#dddddd">
+						<h4>Using TikZJax</h4>
+						<script type="text/tikz">
+							\begin{tikzpicture}
+							\draw (0,0) -- (4,0) -- (4,4) -- (0,4) -- (0,0);
+							\draw[red,thick,dashed] (2,2) circle (3cm);
+							\end{tikzpicture}
+						</script>
+					</section>
+
+					<section data-background="#dddddd">
+						<h4>Using TikZJax</h4>
+						<style>
+							.container {
+								display: flex;
+								justify-content: center;
+								align-items: center;
+								height: 100vh;
+							}
+						</style>
+						<div class="container">
+						<script type="text/tikz">
+							\begin{tikzpicture}
+							\draw[step=1cm,gray,very thin] (-7,-7) grid (7,7);
+							\end{tikzpicture}
+						</script>
+						</div>
+					</section>
+
+					<section data-background="#dddddd">
+						<h4>Using TikZJax</h4>
+						<style>
+							.container {
+								display: flex;
+								justify-content: center;
+								align-items: center;
+								height: 100vh;
+							}
+						</style>
+						<div class="container">
+						<script type="text/tikz">
+							\begin{tikzpicture}
+							\draw[step=1cm,gray,very thin] (-7,-7) grid (7,7);
+							\draw (-2,-2) .. controls (0,0) .. (2,-2);
+							\end{tikzpicture}
+						</script>
+						</div>
+					</section>
+
+					<section data-background="#dddddd">
+						<h4>Using TikZJax</h4>
+						<style>
+							.container {
+								display: flex;
+								justify-content: center;
+								align-items: center;
+								height: 100vh;
+							}
+						</style>
+						<div class="container">
+						<script type="text/tikz">
+							\begin{tikzpicture}
+							\draw[step=1cm,gray,very thin] (-7,-7) grid (7,7);
+							\draw (-2,-2) .. controls (0,0) .. (2,-2);
+							\draw (-2,2) .. controls (-1,0) and (1,0) .. (2,2);
+							\end{tikzpicture}
+						</script>
+						</div>
+					</section>
+
+					<section data-background="#dddddd">
+						<h4>Using TikZJax</h4>
+						<style>
+							.container {
+								display: flex;
+								justify-content: center;
+								align-items: center;
+								height: 100vh;
+							}
+						</style>
+						<div class="container">
+						<script type="text/tikz">
+							\tikz \draw[domain=0:360,smooth,variable=\t]
+  							plot ({sin(\t)},\t/360,{cos(\t)});
+						</script>
+						</div>
+					</section>
+
+				</section>					
+
+
+
+
+				
+				
+				<section  data-background="#dddddd">
+					<h2>Using TikZJax</h2>
+					<script type="text/tikz">
+						\begin{tikzpicture}
+						 % Axes 1
+						 \draw (-1.5,0) -- (1.5,0);
+						 \draw (0,-1.5) -- (0,1.5);
+						 % Axes 2
+						 \draw (2,0) -- (5,0);
+						 \draw (3,-1.5) -- (3,1.5);
+						\end{tikzpicture}
+					</script>
+				</section>				
+
+				<section  data-background="#dddddd">
+					<h2>Using TikZJax</h2>
+					<script type="text/tikz">				
+						\begin{tikzpicture}
+						% place nodes
+						\node[draw] at (0, 0)   (a) {};
+						\node[draw] at (5, 0)   (b) {};
+
+						\node[draw] at (0, -2)  (c)     {};
+						\node[draw] at (5, -2)  (d)     {};
+
+						% draw edges
+						\draw[] (a) -- (b)  node[near start, above] {};
+						\draw[] (c) -- (d)  node[near start, above] {};
+						\draw[] (a) -- (c)  node[near start, above] {};
+						\draw[] (b) -- (d)  node[near start, above] {};
+						\end{tikzpicture}				
+					</script>
+				</section>				
+
+				<section  data-background="#dddddd">
+					<h2>Using TikZJax</h2>
+					<script type="text/tikz">
+						\begin{tikzpicture}
+						\path node at ( 0,2) [shape=circle,draw] {}
+							node at ( 0,1) [shape=circle,draw] {}
+							node at ( 0,0) [shape=circle,draw] {}
+							node at ( 1,1) [shape=rectangle,draw] {}
+							node at (-1,1) [shape=rectangle,draw] {};
+						\end{tikzpicture}
+					</script>
+				</section>				
+
+			</div>
+
+		</div>
+
+
+
+		<script src="dist/reveal.js"></script>
+		<script src="plugin/zoom/zoom.js"></script>
+		<script src="plugin/notes/notes.js"></script>
+		<script src="plugin/search/search.js"></script>
+		<script src="plugin/markdown/markdown.js"></script>
+		<script src="plugin/highlight/highlight.js"></script>
+		<script>
+
+			// Also available as an ES module, see:
+			// https://revealjs.com/initialization/
+			Reveal.initialize({
+				controls: true,
+				progress: true,
+				center: true,
+				hash: true,
+
+				// Learn about plugins: https://revealjs.com/plugins/
+				plugins: [ RevealZoom, RevealNotes, RevealSearch, RevealMarkdown, RevealHighlight ]
+			});
+
+		</script>
+
+	</body>
+</html>

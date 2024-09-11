@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1280"
+   height="720"
+   viewBox="0 0 1280.0001 720.00001"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="aggregate-demand-aggregate-supply.svg"
+   inkscape:version="1.3 (0e150ed, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="false"
+     inkscape:document-units="px"
+     showgrid="true"
+     units="px"
+     inkscape:zoom="0.84340238"
+     inkscape:cx="534.73883"
+     inkscape:cy="432.17805"
+     inkscape:window-width="1312"
+     inkscape:window-height="900"
+     inkscape:window-x="234"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g480-7"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1"
+     borderlayer="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid507"
+       dotted="true"
+       color="#0099e5"
+       opacity="0.10196078"
+       empcolor="#0099e5"
+       empopacity="0.10196078"
+       empspacing="1"
+       originx="0"
+       originy="0"
+       spacingx="8.0000004"
+       spacingy="8.0000004"
+       snapvisiblegridlinesonly="true"
+       visible="true"
+       units="px" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect8"
+       is_visible="true"
+       lpeversion="1.3"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false"
+       uniform="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect7"
+       is_visible="true"
+       lpeversion="1.3"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false"
+       uniform="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect2"
+       is_visible="true"
+       lpeversion="1.3"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false"
+       uniform="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1"
+       is_visible="true"
+       lpeversion="1.3"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false"
+       uniform="false" />
+    <marker
+       style="overflow:visible"
+       id="DartArrow"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Dart arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         transform="scale(-0.5)"
+         id="path6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker4"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Dart arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         transform="scale(-0.5)"
+         id="path4" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Template"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g480"
+       inkscape:label="Class"
+       transform="translate(75.676206,-435.36112)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle"
+         x="116.1779"
+         y="565.90826"
+         id="text478-6"
+         inkscape:label="ClassName"><tspan
+           id="tspan476-1"
+           x="116.1779"
+           y="565.90826"
+           style="font-weight:bold;font-size:26.6667px;text-align:center;baseline-shift:baseline;text-anchor:middle;fill:#000000;fill-opacity:1"
+           sodipodi:role="line">price level</tspan></text>
+    </g>
+    <g
+       id="g480-7"
+       inkscape:label="Class"
+       transform="translate(77.861256,-139.64782)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle"
+         x="182.1779"
+         y="565.90826"
+         id="text478-6-5"
+         inkscape:label="ClassName"><tspan
+           id="tspan476-1-3"
+           x="182.1779"
+           y="565.90826"
+           style="font-weight:bold;font-size:26.6667px;text-align:center;baseline-shift:baseline;text-anchor:middle;fill:#000000;fill-opacity:1"
+           sodipodi:role="line">P</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle"
+         x="567.58771"
+         y="776.38837"
+         id="text478-6-5-7"
+         inkscape:label="ClassName"><tspan
+           id="tspan476-1-3-5"
+           x="567.58771"
+           y="776.38837"
+           style="font-weight:bold;font-size:26.6667px;text-align:center;baseline-shift:baseline;text-anchor:middle;fill:#000000;fill-opacity:1"
+           sodipodi:role="line">Y</tspan></text>
+    </g>
+    <g
+       id="g480-0"
+       inkscape:label="Class"
+       transform="translate(853.47736,-416.29896)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff0000"
+         x="80.177902"
+         y="565.90826"
+         id="text478-6-9"
+         inkscape:label="ClassName"><tspan
+           id="tspan476-1-5"
+           x="80.177902"
+           y="565.90826"
+           style="font-weight:bold;font-size:26.6667px;text-align:center;baseline-shift:baseline;text-anchor:middle;fill:#ff0000;fill-opacity:1"
+           sodipodi:role="line">LRAS</tspan></text>
+    </g>
+    <g
+       id="g480-0-9"
+       inkscape:label="Class"
+       transform="translate(838.09819,-17.16866)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff"
+         x="80.177902"
+         y="565.90826"
+         id="text478-6-9-3"
+         inkscape:label="ClassName"><tspan
+           id="tspan476-1-5-7"
+           x="80.177902"
+           y="565.90826"
+           style="font-weight:bold;font-size:26.6667px;text-align:center;baseline-shift:baseline;text-anchor:middle;fill:#0000ff;fill-opacity:1"
+           sodipodi:role="line">AD</tspan></text>
+    </g>
+    <g
+       id="g480-6"
+       inkscape:label="Class"
+       transform="translate(837.18267,75.166913)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle"
+         x="116.1779"
+         y="565.90826"
+         id="text478-6-6"
+         inkscape:label="ClassName"><tspan
+           id="tspan476-1-7"
+           x="116.1779"
+           y="565.90826"
+           style="font-weight:bold;font-size:26.6667px;text-align:center;baseline-shift:baseline;text-anchor:middle;fill:#000000;fill-opacity:1"
+           sodipodi:role="line">real GDP</tspan></text>
+      <path
+         style="opacity:1;fill:none;stroke:#ff0000;stroke-width:5;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+         d="m -535.63699,353.53659 c 99.3042,0 198.60841,0 261.27931,-1.51381 62.67089,-1.51382 88.70745,-4.54132 112.32269,-9.68826 23.61523,-5.14693 44.80778,-12.41295 62.065046,-22.40405 17.257265,-9.9911 30.578294,-22.70663 40.569329,-35.11977 9.991035,-12.41315 16.651553,-24.52318 21.192926,-38.75291 4.541374,-14.22972 6.963383,-30.57826 7.871648,-42.99137 0.908265,-12.41311 0.302764,-20.89013 7e-6,-35.1199 -0.302756,-14.22976 -0.302756,-34.2113 -0.302756,-52.37687 0,-18.165563 0,-34.514103 0,-50.862963"
+         id="path1"
+         inkscape:path-effect="#path-effect2"
+         inkscape:original-d="m -535.63699,353.53659 c 99.3042,0 198.60841,0 297.91261,0 26.03759,-3.02763 52.07415,-6.05513 78.11123,-9.0827 21.19339,-7.26631 42.38594,-14.53232 63.57891,-21.79848 13.32156,-12.71604 26.64259,-25.43157 39.96388,-38.14735 6.66078,-12.11051 13.3213,-24.22054 19.98194,-36.3308 2.42211,-16.34919 4.84411,-32.69773 7.26617,-49.04659 -0.60553,-8.47736 -1.21103,-16.95438 -1.81654,-25.43156 0,-19.98235 0,-39.96389 0,-59.94583 0,-16.349193 0,-32.697733 0,-49.046593" />
+      <path
+         style="opacity:1;fill:none;stroke:#0000ff;stroke-width:5;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+         d="M -521.10466,124.65252 3.87547,478.87787"
+         id="path2" />
+    </g>
+    <path
+       style="fill:none;fill-opacity:0;stroke:#010101;stroke-width:4;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker4)"
+       d="m 299.67476,588.47332 709.38364,0.95748"
+       id="path3" />
+    <path
+       style="fill:none;fill-opacity:0;stroke:#010101;stroke-width:4;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#DartArrow)"
+       d="M 298.05065,590.28824 V 129.68718"
+       id="path5" />
+    <path
+       style="opacity:1;fill:#0000ff;stroke:#000000;stroke-width:5;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:5,15;stroke-opacity:1;stroke-dashoffset:0"
+       d="m 645.21318,424.0598 c 0,53.76776 0,107.53553 0,161.30329"
+       id="path7"
+       inkscape:path-effect="#path-effect7"
+       inkscape:original-d="m 645.21318,424.0598 c 0,53.76776 0,107.53553 0,161.30329" />
+    <path
+       style="opacity:1;fill:#0000ff;stroke:#000000;stroke-width:5;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:5, 15;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 636.89806,418.58821 c -112.48217,0 -224.96433,0 -337.4465,0"
+       id="path8"
+       inkscape:path-effect="#path-effect8"
+       inkscape:original-d="m 636.89806,418.58821 c -112.48217,0 -224.96433,0 -337.4465,0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 1" />
+  <metadata
+     id="metadata2865">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <cc:license
+           rdf:resource="dsf" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

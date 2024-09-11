@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1280"
+   height="720"
+   viewBox="0 0 1280.0001 720.00001"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="structured-writing-discuss-wage-rate-and-motivation.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   inkscape:export-filename="../../../slides/docs/media/svg/demand-supply-fall-in-supply.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="false"
+     inkscape:document-units="px"
+     showgrid="true"
+     units="px"
+     inkscape:zoom="0.73773511"
+     inkscape:cx="623.53004"
+     inkscape:cy="504.92378"
+     inkscape:window-width="1920"
+     inkscape:window-height="1003"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g480-9"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1"
+     borderlayer="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid507"
+       dotted="true"
+       color="#0099e5"
+       opacity="0.10196078"
+       empcolor="#0099e5"
+       empopacity="0.10196078"
+       empspacing="1"
+       originx="0"
+       originy="0"
+       spacingx="8.0000004"
+       spacingy="8.0000004"
+       snapvisiblegridlinesonly="true"
+       visible="true"
+       units="px" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="ArrowWide"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path1" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect18"
+       is_visible="true"
+       lpeversion="1.3"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false"
+       uniform="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect17"
+       is_visible="true"
+       lpeversion="1.3"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false"
+       uniform="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect16"
+       is_visible="true"
+       lpeversion="1.3"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false"
+       uniform="false" />
+    <marker
+       style="overflow:visible"
+       id="ArrowWide-7"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path1-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWide-7-0-7-2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path1-9-2-5-2" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Template"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g480-9"
+       inkscape:label="Class"
+       transform="translate(94.618108,-215.58601)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke:#008000;stroke-opacity:1"
+         x="535.40424"
+         y="261.65143"
+         id="text478-6-4"
+         inkscape:label="ClassName"><tspan
+           id="tspan476-1-2"
+           x="535.40424"
+           y="261.65143"
+           style="font-weight:bold;font-size:26.6667px;text-align:center;baseline-shift:baseline;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#008000;stroke-opacity:1"
+           sodipodi:role="line">wage rate</tspan><tspan
+           x="535.40424"
+           y="288.31812"
+           style="font-weight:bold;font-size:26.6667px;text-align:center;baseline-shift:baseline;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#008000;stroke-opacity:1"
+           sodipodi:role="line"
+           id="tspan1">wage/non-wage factors</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke:#0000ff;stroke-opacity:1"
+         x="115.96069"
+         y="358.42163"
+         id="text478-6-4-6"
+         inkscape:label="ClassName"><tspan
+           x="115.96069"
+           y="358.42163"
+           style="font-weight:bold;font-size:26.6667px;text-align:center;baseline-shift:baseline;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#0000ff;stroke-opacity:1"
+           sodipodi:role="line"
+           id="tspan2">yes</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle"
+         x="515.5152"
+         y="489.15027"
+         id="text478-6-4-6-7"
+         inkscape:label="ClassName"><tspan
+           x="515.5152"
+           y="489.15027"
+           style="font-weight:bold;font-size:26.6667px;text-align:center;baseline-shift:baseline;text-anchor:middle;fill:#000000;fill-opacity:1"
+           sodipodi:role="line"
+           id="tspan4">are high wages </tspan><tspan
+           x="515.5152"
+           y="515.81696"
+           style="font-weight:bold;font-size:26.6667px;text-align:center;baseline-shift:baseline;text-anchor:middle;fill:#000000;fill-opacity:1"
+           sodipodi:role="line"
+           id="tspan28">the only factor </tspan><tspan
+           x="515.5152"
+           y="542.48364"
+           style="font-weight:bold;font-size:26.6667px;text-align:center;baseline-shift:baseline;text-anchor:middle;fill:#000000;fill-opacity:1"
+           sodipodi:role="line"
+           id="tspan41">of motivation?</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke:#0000ff;stroke-opacity:1"
+         x="135.88864"
+         y="480.1004"
+         id="text478-6-4-6-7-3-2"
+         inkscape:label="ClassName"><tspan
+           x="135.88864"
+           y="480.1004"
+           style="font-weight:bold;font-size:26.6667px;text-align:center;baseline-shift:baseline;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#0000ff;stroke-opacity:1"
+           sodipodi:role="line"
+           id="tspan4-2-7">higher wage rate</tspan><tspan
+           x="135.88864"
+           y="506.76709"
+           style="font-weight:bold;font-size:26.6667px;text-align:center;baseline-shift:baseline;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#0000ff;stroke-opacity:1"
+           sodipodi:role="line"
+           id="tspan6" /><tspan
+           x="135.88864"
+           y="533.43378"
+           style="font-weight:bold;font-size:26.6667px;text-align:center;baseline-shift:baseline;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#0000ff;stroke-opacity:1"
+           sodipodi:role="line"
+           id="tspan7">work less hours</tspan><tspan
+           x="135.88864"
+           y="560.10052"
+           style="font-weight:bold;font-size:26.6667px;text-align:center;baseline-shift:baseline;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#0000ff;stroke-opacity:1"
+           sodipodi:role="line"
+           id="tspan8" /><tspan
+           x="135.88864"
+           y="586.76721"
+           style="font-weight:bold;font-size:26.6667px;text-align:center;baseline-shift:baseline;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#0000ff;stroke-opacity:1"
+           sodipodi:role="line"
+           id="tspan10">more leisure time</tspan><tspan
+           x="135.88864"
+           y="613.4339"
+           style="font-weight:bold;font-size:26.6667px;text-align:center;baseline-shift:baseline;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#0000ff;stroke-opacity:1"
+           sodipodi:role="line"
+           id="tspan11" /><tspan
+           x="135.88864"
+           y="640.10059"
+           style="font-weight:bold;font-size:26.6667px;text-align:center;baseline-shift:baseline;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#0000ff;stroke-opacity:1"
+           sodipodi:role="line"
+           id="tspan12" /><tspan
+           x="135.88864"
+           y="666.76733"
+           style="font-weight:bold;font-size:26.6667px;text-align:center;baseline-shift:baseline;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#0000ff;stroke-opacity:1"
+           sodipodi:role="line"
+           id="tspan13" /><tspan
+           x="135.88864"
+           y="693.43402"
+           style="font-weight:bold;font-size:26.6667px;text-align:center;baseline-shift:baseline;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#0000ff;stroke-opacity:1"
+           sodipodi:role="line"
+           id="tspan14" /></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke:#0000ff;stroke-opacity:1"
+         x="962.38116"
+         y="479.61932"
+         id="text478-6-4-6-7-3-9-0"
+         inkscape:label="ClassName"><tspan
+           x="962.38116"
+           y="479.61932"
+           style="font-weight:bold;font-size:26.6667px;text-align:center;baseline-shift:baseline;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#0000ff;stroke-opacity:1"
+           sodipodi:role="line"
+           id="tspan4-2-1-9">non-wage factors </tspan><tspan
+           x="962.38116"
+           y="506.28601"
+           style="font-weight:bold;font-size:26.6667px;text-align:center;baseline-shift:baseline;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#0000ff;stroke-opacity:1"
+           sodipodi:role="line"
+           id="tspan15" /><tspan
+           x="962.38116"
+           y="532.9527"
+           style="font-weight:bold;font-size:26.6667px;text-align:center;baseline-shift:baseline;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#0000ff;stroke-opacity:1"
+           sodipodi:role="line"
+           id="tspan16">working conditions</tspan><tspan
+           x="962.38116"
+           y="559.61945"
+           style="font-weight:bold;font-size:26.6667px;text-align:center;baseline-shift:baseline;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#0000ff;stroke-opacity:1"
+           sodipodi:role="line"
+           id="tspan45">may worsen</tspan><tspan
+           x="962.38116"
+           y="586.28613"
+           style="font-weight:bold;font-size:26.6667px;text-align:center;baseline-shift:baseline;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#0000ff;stroke-opacity:1"
+           sodipodi:role="line"
+           id="tspan43">+</tspan><tspan
+           x="962.38116"
+           y="612.95282"
+           style="font-weight:bold;font-size:26.6667px;text-align:center;baseline-shift:baseline;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#0000ff;stroke-opacity:1"
+           sodipodi:role="line"
+           id="tspan44">fringe benefits may fall</tspan><tspan
+           x="962.38116"
+           y="639.61951"
+           style="font-weight:bold;font-size:26.6667px;text-align:center;baseline-shift:baseline;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#0000ff;stroke-opacity:1"
+           sodipodi:role="line"
+           id="tspan46">+</tspan><tspan
+           x="962.38116"
+           y="666.28625"
+           style="font-weight:bold;font-size:26.6667px;text-align:center;baseline-shift:baseline;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#0000ff;stroke-opacity:1"
+           sodipodi:role="line"
+           id="tspan48">other wage components</tspan><tspan
+           x="962.38116"
+           y="692.95294"
+           style="font-weight:bold;font-size:26.6667px;text-align:center;baseline-shift:baseline;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#0000ff;stroke-opacity:1"
+           sodipodi:role="line"
+           id="tspan49">may be cut (overtime,...)</tspan><tspan
+           x="962.38116"
+           y="719.61963"
+           style="font-weight:bold;font-size:26.6667px;text-align:center;baseline-shift:baseline;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#0000ff;stroke-opacity:1"
+           sodipodi:role="line"
+           id="tspan50">+</tspan><tspan
+           x="962.38116"
+           y="746.28632"
+           style="font-weight:bold;font-size:26.6667px;text-align:center;baseline-shift:baseline;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#0000ff;stroke-opacity:1"
+           sodipodi:role="line"
+           id="tspan51">high qualification </tspan><tspan
+           x="962.38116"
+           y="772.953"
+           style="font-weight:bold;font-size:26.6667px;text-align:center;baseline-shift:baseline;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#0000ff;stroke-opacity:1"
+           sodipodi:role="line"
+           id="tspan53">required</tspan><tspan
+           x="962.38116"
+           y="799.61975"
+           style="font-weight:bold;font-size:26.6667px;text-align:center;baseline-shift:baseline;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#0000ff;stroke-opacity:1"
+           sodipodi:role="line"
+           id="tspan63">+</tspan><tspan
+           x="962.38116"
+           y="826.28644"
+           style="font-weight:bold;font-size:26.6667px;text-align:center;baseline-shift:baseline;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#0000ff;stroke-opacity:1"
+           sodipodi:role="line"
+           id="tspan64">no training offered</tspan><tspan
+           x="962.38116"
+           y="852.95312"
+           style="font-weight:bold;font-size:26.6667px;text-align:center;baseline-shift:baseline;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#0000ff;stroke-opacity:1"
+           sodipodi:role="line"
+           id="tspan52" /><tspan
+           x="962.38116"
+           y="879.61981"
+           style="font-weight:bold;font-size:26.6667px;text-align:center;baseline-shift:baseline;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#0000ff;stroke-opacity:1"
+           sodipodi:role="line"
+           id="tspan47" /><tspan
+           x="962.38116"
+           y="906.2865"
+           style="font-weight:bold;font-size:26.6667px;text-align:center;baseline-shift:baseline;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#0000ff;stroke-opacity:1"
+           sodipodi:role="line"
+           id="tspan17" /><tspan
+           x="962.38116"
+           y="932.95325"
+           style="font-weight:bold;font-size:26.6667px;text-align:center;baseline-shift:baseline;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#0000ff;stroke-opacity:1"
+           sodipodi:role="line"
+           id="tspan18" /><tspan
+           x="962.38116"
+           y="959.61993"
+           style="font-weight:bold;font-size:26.6667px;text-align:center;baseline-shift:baseline;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#0000ff;stroke-opacity:1"
+           sodipodi:role="line"
+           id="tspan19" /><tspan
+           x="962.38116"
+           y="986.28662"
+           style="font-weight:bold;font-size:26.6667px;text-align:center;baseline-shift:baseline;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#0000ff;stroke-opacity:1"
+           sodipodi:role="line"
+           id="tspan20" /><tspan
+           x="962.38116"
+           y="1012.9533"
+           style="font-weight:bold;font-size:26.6667px;text-align:center;baseline-shift:baseline;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#0000ff;stroke-opacity:1"
+           sodipodi:role="line"
+           id="tspan21" /><tspan
+           x="962.38116"
+           y="1039.62"
+           style="font-weight:bold;font-size:26.6667px;text-align:center;baseline-shift:baseline;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#0000ff;stroke-opacity:1"
+           sodipodi:role="line"
+           id="tspan22" /><tspan
+           x="962.38116"
+           y="1066.2867"
+           style="font-weight:bold;font-size:26.6667px;text-align:center;baseline-shift:baseline;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#0000ff;stroke-opacity:1"
+           sodipodi:role="line"
+           id="tspan23" /><tspan
+           x="962.38116"
+           y="1092.9535"
+           style="font-weight:bold;font-size:26.6667px;text-align:center;baseline-shift:baseline;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#0000ff;stroke-opacity:1"
+           sodipodi:role="line"
+           id="tspan24" /><tspan
+           x="962.38116"
+           y="1119.6201"
+           style="font-weight:bold;font-size:26.6667px;text-align:center;baseline-shift:baseline;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#0000ff;stroke-opacity:1"
+           sodipodi:role="line"
+           id="tspan25" /><tspan
+           x="962.38116"
+           y="1146.2869"
+           style="font-weight:bold;font-size:26.6667px;text-align:center;baseline-shift:baseline;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#0000ff;stroke-opacity:1"
+           sodipodi:role="line"
+           id="tspan29" /><tspan
+           x="962.38116"
+           y="1172.9535"
+           style="font-weight:bold;font-size:26.6667px;text-align:center;baseline-shift:baseline;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#0000ff;stroke-opacity:1"
+           sodipodi:role="line"
+           id="tspan30" /></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke:#0000ff;stroke-opacity:1"
+         x="961.42694"
+         y="356.4776"
+         id="text478-6-4-6-3"
+         inkscape:label="ClassName"><tspan
+           x="961.42694"
+           y="356.4776"
+           style="font-weight:bold;font-size:26.6667px;text-align:center;baseline-shift:baseline;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#0000ff;stroke-opacity:1"
+           sodipodi:role="line"
+           id="tspan2-6">no</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke:#ff6600;stroke-opacity:1"
+         x="511.3587"
+         y="672.36761"
+         id="text478-6-4-6-3-1"
+         inkscape:label="ClassName"><tspan
+           x="511.3587"
+           y="672.36761"
+           style="font-weight:bold;font-size:26.6667px;text-align:center;baseline-shift:baseline;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#ff6600;stroke-opacity:1"
+           sodipodi:role="line"
+           id="tspan39">in the long run:</tspan><tspan
+           x="511.3587"
+           y="699.0343"
+           style="font-weight:bold;font-size:26.6667px;text-align:center;baseline-shift:baseline;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#ff6600;stroke-opacity:1"
+           sodipodi:role="line"
+           id="tspan65">training may </tspan><tspan
+           x="511.3587"
+           y="725.70099"
+           style="font-weight:bold;font-size:26.6667px;text-align:center;baseline-shift:baseline;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#ff6600;stroke-opacity:1"
+           sodipodi:role="line"
+           id="tspan66">increase future </tspan><tspan
+           x="511.3587"
+           y="752.36774"
+           style="font-weight:bold;font-size:26.6667px;text-align:center;baseline-shift:baseline;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#ff6600;stroke-opacity:1"
+           sodipodi:role="line"
+           id="tspan68">wages</tspan><tspan
+           x="511.3587"
+           y="779.03442"
+           style="font-weight:bold;font-size:26.6667px;text-align:center;baseline-shift:baseline;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#ff6600;stroke-opacity:1"
+           sodipodi:role="line"
+           id="tspan62" /></text>
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:4;stroke-dasharray:none"
+         id="rect39"
+         width="258.52985"
+         height="96.060471"
+         x="387.01859"
+         y="457.37863" />
+      <rect
+         style="fill:none;stroke:#ff6600;stroke-width:2.76683;stroke-dasharray:none;stroke-opacity:1"
+         id="rect40"
+         width="301.87885"
+         height="133.80742"
+         x="367.47797"
+         y="641.56012" />
+      <rect
+         style="fill:none;stroke:#0000ff;stroke-width:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect41"
+         width="417.50989"
+         height="93.736"
+         x="-78.976906"
+         y="328.45255" />
+      <rect
+         style="fill:none;stroke:#0000ff;stroke-width:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect42"
+         width="404.24081"
+         height="91.692162"
+         x="761.61841"
+         y="328.73849" />
+      <rect
+         style="fill:none;stroke:#008000;stroke-width:4.24465;stroke-dasharray:none;stroke-opacity:1"
+         id="rect43"
+         width="333.07599"
+         height="74.699677"
+         x="366.6178"
+         y="226.93887" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:4;stroke-dasharray:none"
+         d="M 524.91953,303.73439 V 455.78337"
+         id="path43" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:4;stroke-dasharray:none"
+         d="m 645.9085,504.45577 h 59.61023 l 0.56126,-128.30125 h 54.71243"
+         id="path44" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:4;stroke-dasharray:none"
+         d="M 384.92179,503.70389 H 360.85637 V 380.49635 h -21.46561"
+         id="path45" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:4;stroke-dasharray:none"
+         d="m 522.97629,554.40807 v 87.41916"
+         id="path46" />
+      <path
+         style="fill:none;stroke:#0000ff;stroke-width:2.24998;stroke-dasharray:none;marker-end:url(#ArrowWide);stroke-opacity:1"
+         d="m 131.08323,485.16637 v 27.04636"
+         id="path47" />
+      <path
+         style="fill:none;stroke:#0000ff;stroke-width:2.24998;stroke-dasharray:none;marker-end:url(#ArrowWide-7);stroke-opacity:1"
+         d="m 130.44223,537.89312 v 27.04636"
+         id="path47-2" />
+      <path
+         style="fill:none;stroke:#0000ff;stroke-width:2.24998;stroke-dasharray:none;marker-end:url(#ArrowWide-7-0-7-2);stroke-opacity:1"
+         d="m 955.72779,483.66541 v 27.04636"
+         id="path47-2-3-9-8" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 1" />
+  <metadata
+     id="metadata2865">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <cc:license
+           rdf:resource="dsf" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

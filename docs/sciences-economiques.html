@@ -1,0 +1,158 @@
+<!-- Luxembourg - June 2023 - Tarik Ocaktan -->
+<!doctype html>
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8">
+
+		<title>reveal.js – The HTML Presentation Framework</title>
+
+		<meta name="description" content="A framework for easily creating beautiful presentations using HTML">
+		<meta name="author" content="Hakim El Hattab">
+
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<link rel="stylesheet" href="dist/reset.css">
+		<link rel="stylesheet" href="dist/reveal.css">
+		<link rel="stylesheet" href="dist/theme/black.css" id="theme">
+
+		<!-- Theme used for syntax highlighting of code -->
+		<link rel="stylesheet" href="plugin/highlight/monokai.css">
+	</head>
+
+	<body>
+
+		<div class="reveal">
+
+			<!-- Any section element inside of this container is displayed as a slide -->
+			<div class="slides">
+
+				<!-- Main title of this set of slides -->
+				<section>
+					<a href="https://gitlab.com/econmediadb">
+						<img src="https://gitlab.com/uploads/-/system/user/avatar/10447524/avatar.png" alt="reveal.js logo" style="height: 180px; margin: 0 auto 4rem auto; background: transparent;" class="demo-logo">
+					</a>
+					<h2>Sciences économiques</h2>
+					<p>
+						<small>Created by <a href="http://ocaktan.org/">Tarik Ocaktan</a> </small>
+					</p>
+				</section>
+
+				<!-- ECONOMIE POLITIQUE -->
+				<section>
+					<h2>Economie politique</h2>
+					<ul>
+						<li>Chapitre 1</li>
+						<li>Chapitre 2</li>
+						<li>Chapitre 3</li>
+					</ul>
+				</section>
+
+
+				<!-- MATHEMATIQUES FINANCIERES -->
+				<section>
+					<h2>Mathématiques financières</h2>
+					<ul>
+						<li>Les pourcentages</li>
+						<li>Les intérêts simples</li>
+						<li>Les intérêts composés</li>
+						<li>Les indices simples</li>
+					</ul>
+				</section>				
+
+				<!-- Les intérêts composés -->
+				<section>
+					<h3>Les intérêts composés</h3>
+					Construction de la valeur acquise
+					<script type="math/tex; mode=display">
+						A = C + I_{\text{composé}}
+					</script>
+				</section>				
+
+				<section>
+					<h3>The Lorenz Equations</h3>
+
+					\[\begin{aligned}
+					\dot{x} &amp; = \sigma(y-x) \\
+					\dot{y} &amp; = \rho x - y - xz \\
+					\dot{z} &amp; = -\beta z + xy
+					\end{aligned} \]
+				</section>
+
+
+
+                <!-- Use external markdown resource: economie politique -->
+                <section data-markdown="markdown/economie-politique.md" data-separator="^\n\n\n" data-separator-vertical="^\n\n"></section>
+				
+                <!-- Use external markdown resource: mathématiques financières -->
+                <section data-markdown="markdown/mathematiques-financieres.md" data-separator="^\n\n\n" data-separator-vertical="^\n\n"></section>
+
+                <!-- Use external markdown resource: comptabilité -->
+                <section data-markdown="markdown/comptabilite.md" data-separator="^\n\n\n" data-separator-vertical="^\n\n"></section>
+
+                <!-- Use external markdown resource: droit -->
+                <section data-markdown="markdown/droit.md" data-separator="^\n\n\n" data-separator-vertical="^\n\n"></section>
+
+				
+
+			</div>
+
+		</div>
+
+
+
+
+		<script src="dist/reveal.js"></script>
+		<script src="plugin/zoom/zoom.js"></script>
+		<script src="plugin/notes/notes.js"></script>
+		<script src="plugin/search/search.js"></script>
+		<script src="plugin/markdown/markdown.js"></script>
+		<script src="plugin/highlight/highlight.js"></script>
+		<script src="plugin/math/math.js"></script>
+		<script>
+
+			// Also available as an ES module, see:
+			// https://revealjs.com/initialization/
+			Reveal.initialize({
+				controls: true,
+				progress: true,
+				center: true,
+				hash: true,
+
+				// Learn about plugins: https://revealjs.com/plugins/
+				plugins: [ RevealZoom, RevealNotes, RevealSearch, RevealMarkdown, RevealHighlight ]
+			});
+
+		</script>
+
+		<script>
+			Reveal.initialize({
+				history: true,
+				transition: 'linear',
+
+				mathjax2: {
+					config: 'TeX-AMS_HTML-full',
+					TeX: {
+						Macros: {
+							R: '\\mathbb{R}',
+							set: [ '\\left\\{#1 \\; ; \\; #2\\right\\}', 2 ]
+						}
+					}
+				},
+
+				// There are three typesetters available
+				// RevealMath.MathJax2 (default)
+				// RevealMath.MathJax3
+				// RevealMath.KaTeX
+				//
+				// More info at https://revealjs.com/math/
+				plugins: [ RevealMath.MathJax2 ]
+			});
+		</script>
+
+
+	</body>
+</html>
