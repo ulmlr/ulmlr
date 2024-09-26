@@ -9,6 +9,7 @@ Encyclopædia Britannica
 
 ## Aim of the club
 
+- [Starting an Open Source Project](https://opensource.guide/starting-a-project/)
 - Learn to access and use ressources that are not found by search engines (a-z, O'Reilly Video Courses, ...)
 - Hands-on experience with open-source software and open-source hardware
 - Assist your school community 
@@ -19,8 +20,14 @@ Encyclopædia Britannica
 - Learn to find and use databases (data.public.lu, ...) 
 - Give people the choice to be consumers of information, and not become products of companies (tracking data and behaviour of people can be avoided)
 
+
+
 ## Content
 
+- using git : 
+  - watch [git explained in 100 seconds](https://www.youtube.com/watch?v=hwP7WQkmECE) video 
+  - watch [git it? how to use git and github](https://www.youtube.com/watch?v=HkdAHXoRtos) (12 min)
+- help the school projects to have visibility among your school community
 
 
 ## Quotes
@@ -127,6 +134,38 @@ Linus Torvalds
 9. [Advanced Programming in the UNIX Environment (Addison-Wesley Professional Computing Series)](https://github.com/Lincheng1993/apue/blob/master/Advanced%20Programming%20in%20the%20UNIX%20Environment%203rd%20Edition.pdf)
 10. [The Linux Programming Interface: A Linux and UNIX System Programming Handbook 1st Edition](https://www.man7.org/tlpi/)
 
+
+## Useful Linux websites
+
+- [ArchWiki](https://wiki.archlinux.org/)
+- [Explainshell](https://explainshell.com/)
+- [Crontab.guru](https://crontab.guru/)
+- [Distrowatch](https://distrowatch.com/)
+- [Phoronix](https://www.phoronix.com/)
+- [Ubuntu Blog](https://ubuntu.com/blog)
+- [/r/Linux on Reddit](https://www.reddit.com/r/linux/)
+- [Open Source Guides](https://opensource.guide/)
+
+
+
+## Props for Fair
+
+### Visual Displays
+
+- Code-filled posters: Create posters with large, colorful code snippets, highlighting the languages you'll be learning (HTML, Python, etc.).
+- Giant GitHub octocat: Have a large cutout of the GitHub octocat, a popular symbol of open-source development.
+- Linux penguin: Display a large cutout or figurine of Tux, the Linux mascot.
+- Open-source project showcases: Create a display showcasing examples of popular open-source projects (e.g., Wikipedia, Firefox, Blender).
+
+### Interactive Elements
+
+- Coding challenge station: Set up a computer with a simple coding challenge (e.g., creating a basic HTML page).
+- Open-source project demo: Have a demo running of an open-source project that students can interact with.
+- Version control simulation: Use a visual tool to demonstrate the concept of version control (e.g., a whiteboard with branches and commits).
+- "Build Your Digital Future" Wall: Set up a large board where interested students can write their names or stick post-it notes with their ideas for projects.
+
+
+### 
 
 ## Sources
 
