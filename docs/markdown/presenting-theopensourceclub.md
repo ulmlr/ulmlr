@@ -14,7 +14,7 @@ Encyclopædia Britannica
 - Hands-on experience with open-source software and open-source hardware
 - Assist your school community 
   - by creating webpages in Github Pages
-  - Jupyter Lab notebooks to analyse scientific data (collected in experiments)
+  - [Jupyter Lab](https://jupyter.org/try) notebooks to analyse scientific data (collected in experiments)
 - Historical view of Open Source Software ( [source](https://digitalcommons.lib.uconn.edu/cgi/viewcontent.cgi?article=1009&context=libr_pubs) )
 - Hands-on experience with Linux
 - Learn to find and use databases (data.public.lu, ...) 
@@ -171,3 +171,5 @@ Linus Torvalds
 
 - [linux.org](https://linux.org/)
 - [Britannica](https://www.britannica.com/topic/open-source)
+- [The Success of Open Source](https://doi-org.proxy.bnl.lu/10.4159/9780674044999) by Steven Weber
+- [In the Beginning... Was the Command Line](https://en.wikipedia.org/wiki/In_the_Beginning..._Was_the_Command_Line) by Neal Stephenson
