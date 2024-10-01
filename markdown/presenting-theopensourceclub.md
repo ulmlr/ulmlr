@@ -28,7 +28,7 @@ Encyclopædia Britannica
   - watch [git explained in 100 seconds](https://www.youtube.com/watch?v=hwP7WQkmECE) video 
   - watch [git it? how to use git and github](https://www.youtube.com/watch?v=HkdAHXoRtos) (12 min)
 - help the school projects to have visibility among your school community
-
+- [Hugo Blox](https://hugoblox.com/), [Hugo Blox Template](https://hugoblox.com/templates/details/research-group/), [Research Group Example](https://research-group.netlify.app/)
 
 ## Quotes
 
