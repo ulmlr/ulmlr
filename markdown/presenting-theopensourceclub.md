@@ -147,6 +147,31 @@ Linus Torvalds
 - [Open Source Guides](https://opensource.guide/)
 
 
+## Artificial Intelligence (AI) and Machine Learning (ML)
+
+- AI includes :
+  - natural language processing (NLP)
+  - computer vision
+  - robotics
+- ML focuses on :
+  - algorithms
+  - statistical models
+- Deep Learning is instrumental in automating complex data.
+
+ML's pupose is to identufy patterns and help to make decisions with minimal human intervention.
+
+### Tools and frameworks for AI deployment
+
+- [Hugging Face](huggingface.co)
+- [Docker](docker.com) and [Kubernetes](kubernetes.io) : [containerisation](https://en.wikipedia.org/wiki/Containerization_(computing))
+- [Tensorflow Serving](https://www.tensorflow.org/tfx/guide/serving) and [Torch Serve](https://github.com/pytorch/serve)
+- [MLflow](https://mlflow.org/)
+- [Apache Airflow](https://airflow.apache.org/)
+- [Seldon Core](https://www.seldon.io/)
+- [Kubeflow](https://www.kubeflow.org/)
+
+
+
 
 ## Props for Fair
 
