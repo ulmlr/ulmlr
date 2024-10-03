@@ -344,6 +344,110 @@
 
 
 
+
+					<section data-background="#C4D6A6">
+						<h4> IO Redirection Commands  </h4>
+
+						<table style="font-size: 24px;">
+						<thead>
+						  <tr>
+							<th>command</th>
+							<th>description</th>
+						  </tr>
+						</thead>
+						<tbody>
+						  <tr>
+							<td> cmd < file </td>
+							<td> Input of cmd is taken from file </td>
+						  </tr>
+						  <tr>
+							<td> cmd > file </td>
+							<td> Standard output (stdout) of cmd is redirected to file </td>
+						  </tr>
+						  <tr>
+							<td> cmd 2> file </td>
+							<td> Error output (stderr) of cmd is redirected to file </td>
+						  </tr>
+						  <tr>
+							<td> cmd 2>&1 </td>
+							<td> stderr is redirected to the same place as stdout </td>
+						  </tr>
+						  <tr>
+							<td> cmd1 <(cmd2) </td>
+							<td> Output of cmd2 is used as the input file for cmd1 </td>
+						  </tr>
+						  <tr>
+							<td> cmd > /dev/null </td>
+							<td> Discards the stdout of cmd by sending it to the null device </td>
+						  </tr>
+						  <tr>
+							<td> cmd &> file </td>
+							<td> Every output of cmd is redirected to file </td>
+						  </tr>
+						  <tr>
+							<td> cmd 1>&2 </td>
+							<td> stdout is redirected to the same place as stderr </td>
+						  </tr>
+						  <tr>
+							<td> cmd >> file </td>
+							<td> Appends the stdout of cmd to file </td>
+						  </tr>
+						</tbody>
+					  </table>
+					  <a href="https://www.geeksforgeeks.org/linux-commands-cheat-sheet/#IO" style="font-size: 0.8em;" >source</a>
+
+					</section>
+
+
+
+					<section data-background="#C4D6A6">
+						<h4> Environment Variable Commands  </h4>
+
+						<table style="font-size: 20px;">
+						<thead>
+						  <tr>
+							<th>command</th>
+							<th>description</th>
+						  </tr>
+						</thead>
+						<tbody>
+						  <tr>
+							<td> export VARIABLE_NAME=value  </td>
+							<td> Sets the value of an environment variable  </td>
+						  </tr>
+						  <tr>
+							<td> echo $VARIABLE_NAME  </td>
+							<td> Displays the value of a specific environment variable  </td>
+						  </tr>
+						  <tr>
+							<td> env  </td>
+							<td> Lists all environment variables currently set in the system  </td>
+						  </tr>
+						  <tr>
+							<td> unset VARIABLE_NAME  </td>
+							<td> Unsets or removes an environment variable  </td>
+						  </tr>
+						  <tr>
+							<td> export -p  </td>
+							<td> Shows a list of all currently exported environment variables  </td>
+						  </tr>
+						  <tr>
+							<td> env VAR1=value COMMAND  </td>
+							<td> Sets the value of an environment variable for a specific command  </td>
+						  </tr>
+						  <tr>
+							<td> printenv  </td>
+							<td> Displays the values of all environment variables  </td>
+						  </tr>
+						</tbody>
+					  </table>
+					  <a href="https://www.geeksforgeeks.org/linux-commands-cheat-sheet/#environment" style="font-size: 0.8em;" >source</a>
+
+					</section>
+
+
+
+
 				</section>
 
 
