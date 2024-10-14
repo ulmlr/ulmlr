@@ -190,7 +190,22 @@ ML's pupose is to identufy patterns and help to make decisions with minimal huma
 - "Build Your Digital Future" Wall: Set up a large board where interested students can write their names or stick post-it notes with their ideas for projects.
 
 
-### 
+## Webpage for the 'Unofficial LML Repository'
+
+- [How to Create and Host a Website with Hugo and GitHub Pages](https://medium.com/@magstherdev/github-pages-hugo-86ae6bcbadd)
+  - Setting Up GitHub Pages
+  - Getting Started with Hugo
+  - Deploying Your Website
+  - Choice of Themes
+  - Installing a Theme
+  - Run Hugo : `hugo server` and then open a browser and go to http://localhost:1313
+  - Making changes on the "fly"
+  - Adding content
+  - Customizing Hugo
+  - Publishing your Blog to GitHub Pages
+  - GitHub Actions
+  - Updating your blog
+  - How to add a custom domain to GitHub Pages
 
 ## Sources
 
