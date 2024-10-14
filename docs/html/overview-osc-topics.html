@@ -650,19 +650,132 @@
 				<!-- Raspberry Pi Sensehat -->
 				<section>
 
-					<section data-background="#dddddd">
+					<section data-background="#465F40">
 						<h4>python and the raspberry pi sensehat </h4>
 						
 					</section>
 
-					<section data-background="#dddddd">
+					<section data-background="#465F40">
 						
 						<iframe src="https://trinket.io/embed/python/7952ce1f1430" width="100%" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+						<br>
+						<a href="https://blog.trinket.io/virtual-sense-hat/" style="font-size: 0.3em;" >Source: How we built a virtual Sense HAT with the Raspberry Pi Foundation </a>
+
+					</section>
+
+
+					<section data-background="#465F40">
+						<h4> Raspberry Pi Sensehat  </h4>
+						<ul>
+							<li> <a href="https://tarikgit.github.io/coding/using-sensehat.html" style="font-size: 0.8em;" >Using the Raspberry Pi Sense HAT </a> </li>
+						</ul>
+
+					</section>					
+
+
+					<section data-background="#465F40">
+						<h4> Raspberry Pi Sensehat and Python  </h4>
+						<h5> Two lines to add at the beginning of each Python code </h5>
 						
+						<pre><code data-trim data-noescape>
+							from sense_hat import SenseHat
+							sense = SenseHat()
+							  </code></pre>
+
+							  <br>
+							  <a href="https://raspberrytips.com/sense-hat-tutorial-2/" style="font-size: 0.4em;" >Source: Programming the Sense HAT on Raspberry Pi with Python </a>
+
+					</section>							
+
+
+					<section data-background="#465F40">
+						<h4> Raspberry Pi Sensehat and Python  </h4>
+						<h5> Measuring Temperature </h5>
+						
+						<pre><code data-trim data-noescape>
+							from sense_hat import SenseHat
+							sense = SenseHat()
+
+							# Temperature
+							temp = sense.get_temperature()
+							print("Temperature: %s C" % temp)	
+							</code></pre>
+
+							<br>
+							<a href="https://raspberrytips.com/sense-hat-tutorial-2/" style="font-size: 0.4em;" >Source: Programming the Sense HAT on Raspberry Pi with Python </a>							
+
+					</section>		
+
+
+					<section data-background="#465F40">
+						<h4> Raspberry Pi Sensehat and Python  </h4>
+						<h5> Measuring Humidity </h5>
+						
+						<pre><code data-trim data-noescape>
+							from sense_hat import SenseHat
+							sense = SenseHat()
+
+							# Humidity
+							humidity = sense.get_humidity()
+							print("Humidity: %s %%" % humidity)	
+							</code></pre>
+
+							<br>
+							<a href="https://raspberrytips.com/sense-hat-tutorial-2/" style="font-size: 0.4em;" >Source: Programming the Sense HAT on Raspberry Pi with Python </a>	
+
 					</section>
 
 
 
+					<section data-background="#465F40">
+						<h4> Raspberry Pi Sensehat and Python  </h4>
+						<h5> Measuring Pressure </h5>
+						
+						<pre><code data-trim data-noescape>
+							from sense_hat import SenseHat
+							sense = SenseHat()
+
+							# Pressure
+							pressure = sense.get_pressure()
+							print("Pressure: %s Millibars" % pressure)	
+							</code></pre>
+
+
+							<br>
+							<a href="https://raspberrytips.com/sense-hat-tutorial-2/" style="font-size: 0.4em;" >Source: Programming the Sense HAT on Raspberry Pi with Python </a>
+
+					</section>
+
+
+					<section data-background="#465F40">
+						<h4> Raspberry Pi Sensehat and Python  </h4>
+						<h5> More functions are available ... (1) </h5>
+						
+						<ul>
+							<li> <b>sense.get_orientation()</b> : You can also use get_orientation_radians() or get_orientation_degrees() to specify the unit you want. </li>
+							<li> <b>sense.get_compass()</b> : Get the direction of North in degrees (compared to the USB ports direction).
+								360/0° is North, 90 is East, 270 is West and 180 is South. </li>
+						</ul>
+
+
+							<br>
+							<a href="https://raspberrytips.com/sense-hat-tutorial-2/" style="font-size: 0.4em;" >Source: Programming the Sense HAT on Raspberry Pi with Python </a>
+
+					</section>
+
+					<section data-background="#465F40">
+						<h4> Raspberry Pi Sensehat and Python  </h4>
+						<h5> More functions are available ... (2) </h5>
+						
+						<ul>
+							<li> <b>sense.set_imu_config(compass_enabled, gyro_enabled, acc_enabled)</b> : To select which sensor you want to enable </li>	
+						</ul>
+
+
+							<br>
+							<a href="https://raspberrytips.com/sense-hat-tutorial-2/" style="font-size: 0.4em;" >Source: Programming the Sense HAT on Raspberry Pi with Python </a>
+
+					</section>
 
 
 				</section>
