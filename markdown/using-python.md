@@ -11,6 +11,9 @@
 5. [Functions ](https://linux.org/threads/python-series-part-5-functions.49670/)
 6. [Printing Strings](https://linux.org/threads/python-series-part-6-printing-strings.50093/)
 7. [User Input ](https://linux.org/threads/python-series-part-7-user-input.50605/)
+8. [Data Structures](https://linux.org/threads/python-series-part-8-data-structures.51110/)
+9. [File I/O](https://linux.org/threads/python-series-part-9-file-i-o.51469/)
+10. [Error Management](https://linux.org/threads/python-series-part-10-error-management.52961/)
 
 
 ## More tools ...
