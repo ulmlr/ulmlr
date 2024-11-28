@@ -13,20 +13,6 @@
 - Prevent Unwanted Programs from Running on your System (`fapolicyd`)
 
 
-## Network Security
-
-- NMAP : port scanning tool
-- Metasploit Framework : defence from the view of an attacker
-- Kali Linux System : penetration testing
-- Bro IDS : intrusion detection system
-- Wireshark : network packet analyser
-- Social Engineering Toolkit (SET)
-- WiPi Hunter : detect illegal wireless network activities
-- WHID or Wifi-HID Injector
-- Leviathan Framework : mass audit toolkit
-- LuLu : a firewall that aims to block all outgoing connections
-
-
 
 ## Sources
 
