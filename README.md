@@ -14,6 +14,7 @@ Wëllst du déi modernst Technologie léieren, déi vu Professionellen benotzt g
     <img width="100" src="images/qr-code.png" alt="QR code">
 </p>
 
+**Check out the [slides used in class](https://econmediadb.github.io/slides/html/overview-osc-topics.html#/) ... **
 
 
 ## Source
